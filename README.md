@@ -4,8 +4,8 @@
 - 🛒 I’m currently working for an e-commerce product!
 - 🌱 I’m currently trying to be better and learn more everyday
 - 👯 I’m looking to collaborate with other open-source contributors
-- 🥅 2020 Goals: Stay healthy and become a better developer!
-
+- 🥅 2021 Goals: Stay healthy and become a better developer!
+      
 ### Connect with me:
 
 [<img align="left" alt="donaldlika | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -36,7 +36,7 @@
 ---
 
 
-<img align="left" alt="Donald's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DonaldLika&show_icons=true&hide_border=true" />
+<img align="left" alt="Donald's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DonaldLika&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/donaldlika1/
 [instagram]: https://www.instagram.com/donald_lika/

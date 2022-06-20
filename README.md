@@ -1,43 +1,53 @@
-### Hello there, I'm Donald!
+# Hey there👋, Welcome to my Github Profile
 
-## I'm a Software Developer!
-- 🛒 I’m currently working for an e-commerce product!
-- 🌱 I’m currently trying to be better and learn more everyday
-- 👯 I’m looking to collaborate with other open-source contributors
-- 🥅 2020 Goals: Stay healthy and become a better developer!
+![Donald Lika Banner](./assets/readme-banner.png)
 
-### Connect with me:
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/donaldlika1)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/donaldlika1/)
+[![CodePen Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=black)](
+https://www.instagram.com/donald_lika/)
 
-[<img align="left" alt="donaldlika | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="donaldlika | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="donaldlika | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<h4 align="center">Visitor's count 👀</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{DonaldLika}/count.svg" alt="DonaldLika :: Visitor's Count" /></p>
 
-<br />
+## ⚡🙋‍♂️ About Me
 
-### Languages and Tools:
+<img alt="Night Coding" src="./assets/coding.gif" align="right"/>
 
-<img align="left" alt="IntelliJ" width="26px" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Java" width="26px" src="https://image.flaticon.com/icons/svg/226/226777.svg" />
-<img align="left" alt="Spring" width="26px" src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+</br>
 
+💡 &nbsp;I enjoy exploring new technologies, develop software solutions and quick hacks.\
+💻 &nbsp; I’m currently working at [Smartrecruiters](https://www.epsilon.com/us) \
+🎓 &nbsp;I graduated on M.S.c Computer Science at the University of Tirana.\
+🌱 &nbsp;I continuous keep learning about Systems Design, and Cloud Architecture, Distributed systems. \
+📚 &nbsp;In my free time, I like to read about history, self-improvement techniques, soft skills.
 
-<br />
-<br />
+</br>
 
----
+## 🛠 Tech Stack
 
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Neo Vim](https://img.shields.io/badge/-Neo%20Vim-05122A?style=flat&logo=neovim&logoColor=007ACC)&nbsp;
+![IntellJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellijidea)&nbsp;
 
-<img align="left" alt="Donald's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DonaldLika&show_icons=true&hide_border=true" />
+<br/>
 
-[twitter]: https://twitter.com/donaldlika1/
-[instagram]: https://www.instagram.com/donald_lika/
-[linkedin]: https://www.linkedin.com/in/donaldlika1/
+## ⚙️ GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/DonaldLika">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DonaldLika&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DonaldLika&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>

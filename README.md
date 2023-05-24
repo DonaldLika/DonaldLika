@@ -7,9 +7,6 @@
 [![CodePen Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=black)](
 https://www.instagram.com/donald_lika/)
 
-<h4 align="center">Visitor's count 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{DonaldLika}/count.svg" alt="DonaldLika :: Visitor's Count" /></p>
-
 ## ⚡🙋‍♂️ About Me
 
 <img alt="Night Coding" src="./assets/coding.gif" align="right"/>
@@ -40,14 +37,3 @@ https://www.instagram.com/donald_lika/)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Neo Vim](https://img.shields.io/badge/-Neo%20Vim-05122A?style=flat&logo=neovim&logoColor=007ACC)&nbsp;
 ![IntellJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellijidea)&nbsp;
-
-<br/>
-
-## ⚙️ GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/DonaldLika">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DonaldLika&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DonaldLika&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
